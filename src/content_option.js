@@ -9,16 +9,15 @@ const introdata = {
     animated: {
         first: "Full-stack Developer",
         second: "Data Scientist",
-        // third: "I develop mobile apps",
+        third: "Entrepreneur",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Innovative programmer and Internet entrepreneur striving to make the world a more unified and connected place. A creative thinker, adept in mobile/web development and working with various data structures",
     your_img_url: "https://i.imgur.com/Qlp0Msl.png",
 };
 
 const dataabout = {
     title: "Professional Objective",
-    aboutme: "Self motivated professional with a proven record of generating and building relationships with SME owners, designing modern user interfaces and managing projects from concept to completion. 7 years of experience remote working independently and within a team. Producing clear, well-documented code. Capability to build and consume all types of APIs. Familiarity with design tools - Illustrator, Sketch, Photoshop."
-};
+    aboutme: "I’m looking for a new challenge that can help me broaden my experience, opportunities to learn and develop my skills from a technical point of view, and the opportunity to learn more leadership skills over time"};
 const worktimeline = [{
         jobtitle: "Designer of week",
         where: "YAdfi",
